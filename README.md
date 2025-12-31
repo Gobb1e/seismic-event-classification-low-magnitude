@@ -93,13 +93,15 @@ Repository Structure
 ---
 
 
+### 2) Reproducibility line should be formatted (and clickable-looking)
+Currently it’s inline and not cleanly separated. :contentReference[oaicite:6]{index=6}
+
+Change to:
 ```markdown
 ## Reproducibility
 All preprocessing, modelling, and evaluation steps are fully documented in:
 `notebooks/seismic_ml_pipeline_git_clean.ipynb`
 ```
-
-
 ---
 
 ## Author
