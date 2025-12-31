@@ -12,3 +12,13 @@ and **Weighted-F1** scores are prioritised over accuracy.
 | Logistic Regression | 0.9909 | 0.9941 | 0.9909 | 0.9922 | 0.7695 | 0.8734 | 0.7914 |
 | SVM | 0.9939 | 0.9941 | 0.9939 | 0.9941 | 0.8510 | 0.8550 | 0.8521 |
 | Random Forest | 0.9987 | 0.9987 | 0.9987 | 0.9987 | 0.9180 | 0.9260 | 0.9215 |
+
+
+**Key observations**
+
+- Random Forest achieved the strongest overall performance, with the highest
+  Macro-F1 and Weighted-F1 scores, indicating robust detection of minority classes.
+- Support Vector Machine (SVM) showed competitive performance and substantially
+  improved minority-class recall compared to linear models.
+- Accuracy alone is misleading due to the dominance of earthquake events;
+  Macro-F1 provides a more informative comparison across models.
