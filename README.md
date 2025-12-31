@@ -24,9 +24,9 @@ As monitoring systems improve, the volume of detected low-magnitude events incre
 - **Samples:** 19,958 events
 - **Classes:** Earthquake, Quarry Blast, Explosion, Mining Explosion, Icequake, Other
 
-⚠️ Raw data is available.  
-See `data/raw/usgs_m1_4_aug-nov_2025.csv` 
-See `data/README.md`for the full schema, preprocessing decisions, and reproducibility details.
+⚠️ Raw data is not included in this repository.
+See `data/README.md` for the full schema, preprocessing decisions, and the USGS query to reproduce the dataset.
+
 
 ---
 
