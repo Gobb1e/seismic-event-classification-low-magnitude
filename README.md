@@ -91,7 +91,16 @@ Repository Structure
 
 └── README.md    # Project overview
 
+
+Repository Structure  
+├── data/        # Dataset documentation  
+├── notebooks/   # End-to-end ML pipeline  
+├── results/     # Tables, figures, and evaluation summaries  
+└── README.md    # Project overview
+
+
 ---
+
 
 ## Reproducibility
 All preprocessing, modelling, and evaluation steps are fully documented in:
