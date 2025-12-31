@@ -86,7 +86,7 @@ Repository Structure
 ├── data/        # Dataset documentation  
 ├── notebooks/   # End-to-end ML pipeline  
 ├── results/     # Tables, figures, and evaluation summaries  
-├── requirements.txt  # Project requirements
+├── requirements.txt  # Project requirements  
 └── README.md    # Project overview
 
 
