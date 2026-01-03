@@ -98,8 +98,16 @@ All preprocessing, modelling, and evaluation steps are fully documented in:
 `notebooks/seismic_ml_pipeline_git_clean.ipynb`
 
 ---
-
-## Author
+  
+## 👤 Author
 **Eslam Abuelella**  
 MSc Data Science – Coventry University  
+
+- GitHub: https://github.com/eslamhussienabuelella  
+- Portfolio: https://eslamhussienabuelella.github.io  
+
+---
+
+## 📄 License
+This project is shared for academic and portfolio purposes.
 
